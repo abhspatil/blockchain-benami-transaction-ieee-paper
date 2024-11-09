@@ -1,6 +1,6 @@
 # Blockchain-Based Solution to Prevent Benami Transactions in Real Estate
 
-**Authors**: Abhishek S. Patil, Bharath S.  
+**Authors**: Abhishek Police Patil, Bharath S.  
 **Affiliation**: Department of Electronics and Communication, JSS Science and Technology University (formerly SJCE), Mysuru, India
 
 ---
